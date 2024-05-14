@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+} .a{
+    color:white;
+}.b{
+    color:#4ADF86;
+}p{
+    color:#D5D4D8;
+} button{
+    height:40px;
+    width:180px;;
+    margin-left:30px;
+    background-color:#4ADF86;
+    color:white;
+    border:none;
+    border-radius: 8px;
+} .border{
+    margin-top:10px;
+    border:solid #273549 2px;
+    border-radius: 8px;
+    height:40px;
+    width: 180px;
+    background-color:#273549;
+}#line{
+    margin-top:10px;
+    border:solid #2F3E53 2px;
+    height:1px;
+    background-color:#2F3E53;
+} #flex{
+    display: flex;
+    gap:20px;
+} #pElement{
+    text-align: center;
+}
